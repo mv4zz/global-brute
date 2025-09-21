@@ -1,9 +1,22 @@
 # global-brute
 
-global-brute is a brute-forcing tool which can brute many types of remote-desktop applications to get into somebodies computer remotely.
+- global-brute is a brute-forcing tool which can brute many types of remote-desktop applications to get into somebodies computer remotely.
+- 
+
 ‎ ‎ 
-‎ ‎ 
-‎ ‎ 
+# includes
+- SSH BRUTE
+- TCP BRUTE
+- RD BRUTE
+- VNC BRUTE
+- HTTP/HTTPS BRUTE
+- FTP BRUTE
+- TELNET BRUTE
+- MYSQL BRUTE
+- POSTGRESQL BRUTE
+- WEBSITE ENUM
+
+‎ 
 # requirements 📜
 - Windows 11 operating system
 - Latest Python Version
@@ -26,7 +39,7 @@ global-brute is a brute-forcing tool which can brute many types of remote-deskto
 ‎ ‎ 
 # usage 👤
 - run the tool by executing the batch file:
-  mkz-tool.bat
+   global-brute.bat
 ‎ ‎ ‎ 
 ‎ ‎ 
 ‎ ‎ 
