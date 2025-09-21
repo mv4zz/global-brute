@@ -27,9 +27,9 @@
 - once downloaded, use the wizard to guide you and properly install it to PATH.
 - after, go to the main page of this script and press code, download as zip.
 - once downloaded, unzip
-- download PIP 
-- wait for it to download...
-- close and run global-brute.bat
+- download PIP via pip-installer.bat
+- once downloaded close it and remove
+- then run global-brute.bat
 - wait for libaries to install
 - after everything downloads, the terminal should pop up with the tool
 - enjoy!
