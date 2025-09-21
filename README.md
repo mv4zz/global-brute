@@ -1,6 +1,6 @@
 # global-brute 🌐
 
-- global-brute is a brute-forcing tool which can brute many types of remote-desktop applications to get into somebodies computer remotely.
+- global-brute is a brute-forcing tool which can brute many types of remote-desktop applications to get into somebodies computer remotely. it runs directly through a .bat file, making setup fast and hassle-free.
 
 ‎ ‎ 
 # includes 📜
