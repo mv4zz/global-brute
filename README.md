@@ -1,20 +1,19 @@
 # global-brute
 
 - global-brute is a brute-forcing tool which can brute many types of remote-desktop applications to get into somebodies computer remotely.
-- 
 
 ‎ ‎ 
 # includes
-- SSH BRUTE
-- TCP BRUTE
-- RD BRUTE
-- VNC BRUTE
-- HTTP/HTTPS BRUTE
-- FTP BRUTE
-- TELNET BRUTE
-- MYSQL BRUTE
-- POSTGRESQL BRUTE
-- WEBSITE ENUM
+- ssh brute
+- tcp brute
+- rd brute
+- vnc brute
+- http/https brute
+- ftp brute
+- telnet brute
+- mysql brute
+- postgresql brute
+- website username checkup
 
 ‎ 
 # requirements 📜
@@ -30,7 +29,7 @@
 - once downloaded, unzip
 - download PIP 
 - wait for it to download...
-- close and run mkz-tool.bat
+- close and run global-brute.bat
 - wait for libaries to install
 - after everything downloads, the terminal should pop up with the tool
 - enjoy!
