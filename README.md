@@ -53,8 +53,13 @@ do not start the .py by a ide. libaries will not install and time gets wasted.
 ‎ 
 ‎ 
 # screenshots 📷
-- example interface:
+- bootup:
+
+  
   ![mkz screenshot](images/loading.png)
+- main-menu:
+
+  
   ![mkz screenshot](images/main.png)
 
 # p.s
