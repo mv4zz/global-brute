@@ -1,9 +1,9 @@
-# global-brute
+# global-brute 🌐
 
 - global-brute is a brute-forcing tool which can brute many types of remote-desktop applications to get into somebodies computer remotely.
 
 ‎ ‎ 
-# includes
+# includes 📜
 - ssh brute
 - tcp brute
 - rd brute
